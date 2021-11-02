@@ -5,7 +5,7 @@ This is a simple portfolio web with my social media links and linkedin, if you w
 
 ## Here you can see a preview of the web
 
-![](https://www.google.com/url?sa=i&url=https://es.vexels.com/svg-png/sitio-web/&psig=AOvVaw0-2xhwbkPZzCGNJ9vJWK3O&ust=1635939258030000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjs7unK-fMCFQAAAAAdAAAAABAO)
+![Screenshot](https://photos.app.goo.gl/KNLuA8MLGPNDqd8p8)
 
 [Click here to see the web page](https://tinyurl.com/3dm8p7a7)
 
