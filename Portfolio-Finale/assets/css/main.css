@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -224,6 +219,9 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
+		
+		
+		
 	/* Set your background with this */
 
 
@@ -231,8 +229,6 @@ input, select, textarea {
 	
 		background: 
 		#d3d3d3
-
-
 		url("/darkmountains.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
