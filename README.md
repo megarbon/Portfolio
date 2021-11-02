@@ -7,7 +7,7 @@ This is a simple portfolio web with my social media links and linkedin, if you w
 
 ![Screenshot](https://photos.app.goo.gl/KNLuA8MLGPNDqd8p8)
 
-[Click here to see the web page](https://tinyurl.com/3dm8p7a7)
+[Click here to see the web page](https://raw.githack.com/megarbon/Portfolio/ab501ef113b7cba04f29b4e0122f62c21da34e58/Portfolio-Finale/index.html)
 
 
 ## How it is done
